@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>lxh.company</OriginalElement>
+  <nodes>
+    <node x="561.0" y="0.0">lxh.company.HotAirBallon</node>
+    <node x="0.0" y="0.0">lxh.company.Bicycle</node>
+    <node x="131.0" y="0.0">lxh.company.Airship</node>
+    <node x="402.0" y="0.0">lxh.company.Hovercraft</node>
+    <node x="262.0" y="0.0">lxh.company.Aircraft</node>
+    <node x="992.0" y="0.0">lxh.company.Motorcycle</node>
+    <node x="534.5451149425286" y="114.0">lxh.company.Person</node>
+    <node x="1151.0" y="0.0">lxh.company.Automobile</node>
+    <node x="842.0" y="0.0">lxh.company.Submarine</node>
+    <node x="739.0" y="0.0">lxh.company.Ship</node>
+    <node x="609.175" y="278.0">lxh.company.Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.9106870229007633" x="645.0" y="156.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
